@@ -1,7 +1,7 @@
 # 🎮 Namerer + Supervisorer
 Version 1.2.5 for Windows 10/11 x64
 Name every controller once, choose the player order for each game, emulator, or core, and temporarily hide every controller that was not selected.
-Official product information: https://troylien.me/namerer.html
+Official product information: https://troylien.me/namererSupervisorer.html
 Buy and download on Gumroad: https://troylien.gumroad.com/l/NamererAndSupervisorer
 Buy and download on Payhip: https://payhip.com/b/2RgDi
 ---
