@@ -63,6 +63,5 @@ SHA256SUMS.txt # Release integrity values
 Each application can check troylien.me for its own newer Windows installer. An update runs only after customer approval and SHA-256 verification.
 ## Important HidHide note
 Close the HidHide Configuration Client before using endpoint setup or arming isolation. Only one HidHide configuration process can hold the control device at a time. A stale Present=NO endpoint is a cached Windows device interface and should not be mapped.
-## Publishing note — remove before posting publicly
-Keep the application source private unless Troy deliberately chooses a source-available license. A public GitHub page may contain documentation, release notes, issue tracking, and links to paid downloads without publishing the source code or paid installer for free.
+
 Copyright (c) 2026 Troy Lien. All rights reserved.
