@@ -2,6 +2,8 @@
 Version 1.3.2 for Windows 10/11 x64 - released 08.11.2026
 Name every controller once, choose the player order for each game, emulator, or core, and temporarily hide every controller that was not selected.
 Official product information: https://troylien.me/namererSupervisorer.html
+Watch the demonstration video: https://www.youtube.com/watch?v=brB5V0cKNMY
+Support Gib's Arcade on Patreon: https://patreon.com/GibsArcade
 Buy and download on Gumroad: https://troylien.gumroad.com/l/NamererAndSupervisorer
 Buy and download on Payhip: https://payhip.com/b/2RgDi
 ---
@@ -37,6 +39,7 @@ The applications can run together on one gaming PC or coordinate across two PCs 
 - Nintendo GameCube controllers through a Mayflash GameCube adapter
 Other Windows DirectInput or XInput gamepads may work, but are not advertised as tested and confirmed. Adapter models, clones, drivers, and hardware revisions can differ.
 ## Tested and confirmed emulators / cores
+Test environment: RetroArch 1.22.2 for Windows x64.
 - Nintendo GameCube games in RetroArch using `cores\dolphin_libretro.dll`, confirmed with Super Smash Bros and ordered four-player isolation.
 - Nintendo NES games in RetroArch using `cores\nestopia_libretro.dll`, confirmed with NES P1, NES P2, SNES P1, and GameCube P1 in order.
 - Confirmed core-wide and controller-specific A/B remapping, including leaving NES/SNES pads native while swapping only GameCube P1 in the NES profile.
