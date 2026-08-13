@@ -79,4 +79,8 @@ Each application checks troylien.me for a newer-version notice. After customer a
 Close the HidHide Configuration Client before using endpoint setup or arming isolation. Only one HidHide configuration process can hold the control device at a time. A stale Present=NO endpoint is a cached Windows device interface and should not be mapped.
 ## Project links
 GitHub: https://github.com/Giblet8/Namerer-Supervisorer
+---
+## Need Steam ROM Manager library metadata synchronization?
+Custom SteamRM Library Syncer synchronizes the Steam ROM Manager collection metadata needed by a receiving client PC at startup without copying games, ROMs, artwork, or the entire Steam configuration folder.
+View Custom SteamRM Library Syncer on GitHub: https://github.com/Giblet8/CustomSteamRMLibrarySyncer
 Copyright (c) 2026 Troy Lien. All rights reserved.
